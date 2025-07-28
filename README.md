@@ -1,4 +1,4 @@
-# IBD_Metabolic_Subtypes_Discovery
+# ML IBD Metabolic Subtypes Discovery
 
 This repository contains the code and data associated with the research project "Machine Learning-Driven Discovery of Metabolic Subtypes in IBD," authored by Dominika Gorgosz from the Department of Cancer and Genomic Sciences, School of Medical Sciences, College of Medicine and Health, University of Birmingham.
 
@@ -14,7 +14,7 @@ To replicate the analyses in this project, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/domgor11/IBD_Metabolic_Subtypes_Discovery.git](https://github.com/domgor11/IBD_Metabolic_Subtypes_Discovery.git)
+    git clone [https://github.com/domgor11/ML_IBD_Metabolic_Subtypes_Discovery.git](https://github.com/domgor11/ML_IBD_Metabolic_Subtypes_Discovery.git)
     cd IBD_Metabolic_Subtypes_Discovery
     ```
 
