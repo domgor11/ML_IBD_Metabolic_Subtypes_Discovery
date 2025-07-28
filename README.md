@@ -20,10 +20,10 @@ To replicate the analyses in this project, please follow these steps:
 
 3.  **Download Raw Data:** 
     * The raw serum metabolomics data was obtained from the Integrative Human Microbiome Project (iHMP/IBDMDB) dataset.
-    * Add `metadata.tsv` and `mtb.tsv` files to the `/raw_data` directory
+    * Add `metadata.tsv` and `mtb.tsv` files to the `raw_data/` directory
 
 4.  **Run the Notebooks:**
-    The analysis workflow is organized into Jupyter notebooks. Please run them in sequential order:
+    The analysis workflow is organized into Jupyter notebooks in the `notebooks/` directory. Please run them in sequential order:
     * `1_mtb_preprocessing.ipynb`
     * `2_daa_analysis.ipynb`
     * `3_boruta_feature_reduction.ipynb`
