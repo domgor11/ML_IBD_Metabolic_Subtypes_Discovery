@@ -36,16 +36,3 @@ To replicate the analyses in this project, please follow these steps:
 
 For any questions or inquiries, please contact Dominika Gorgosz at *dominika.gorgosz@alumni.bham.ac.uk*.
 
-
-## Key Findings
-
-**Two Robust Metabolic Subtypes:** Unsupervised clustering consistently identified two robust metabolic subtypes (a majority Cluster 0 and a minority Cluster 1) within both CD and UC populations.
-
-**Opposing Metabolic Profiles:** The minority Cluster 1 was defined by a predominantly upregulated metabolic profile in CD but a predominantly downregulated profile in UC. Of the metabolites differentiating subtypes in both diseases, 99.7% exhibited this inverse relationship.
-
-**Enhanced Clustering with Boruta Feature Set:** The Boruta-selected feature set (613 metabolites) yielded more stable clusters than the Differential Abundance Analysis (DAA) set (3,293 metabolites), dramatically improving clustering concordance in UC patients (Adjusted Rand Index (ARI) increased from 0.56 to 0.92).
-
-**Minimal Biomarker Panels:** LASSO regression identified minimal, non-overlapping biomarker panels capable of perfectly discriminating these subtypes (16 features for CD, 7 for UC, with zero overlap).
-
-**Conserved Metabolic Polarity:** These findings suggest a new framework for IBD pathophysiology where heterogeneity is driven by fundamental metabolic axes independent of traditional diagnostic boundaries, indicating a conserved metabolic polarity.
-
