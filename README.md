@@ -15,7 +15,7 @@ To replicate the analyses in this project, please follow these steps:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/domgor11/ML_IBD_Metabolic_Subtypes_Discovery.git
-    cd IBD_Metabolic_Subtypes_Discovery
+    cd ML_IBD_Metabolic_Subtypes_Discovery
     ```
 
 3.  **Download Raw Data:** 
